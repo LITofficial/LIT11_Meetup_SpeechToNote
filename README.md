@@ -2,6 +2,8 @@
 
 3팀 김지환 전형주 
 
+https://app.notion.com/p/LIT-11-1-40c3c76ad2ad8010b19de77be2aae0b2
+
 ## **녹음만 했을 뿐인데, 나만의 AI 노트가?**
 
 LIT 11월 밋업 (1)
