@@ -1,5 +1,7 @@
 # Speech to Note
 
+[ppt 링크](https://www.canva.com/design/DAHaHcz_Qhc/eHfHqj9cQeYoURtwhS2uSw/edit)
+
 한국어 강의 녹음 파일을 내 컴퓨터에서 전사하고, 필요하면 Gemini로 학습 목적에 맞는 강의노트를 만드는 Windows 로컬 앱입니다.
 
 **녹음 업로드 → 모델 선택 → 전사 → 전사문 다운로드 → 선택적으로 강의노트 생성·PDF 다운로드**
